@@ -153,9 +153,9 @@ Probability distribution:
 
   Number of objects   Probability
   ------------------- -------------
-  1                   100%
-  2                   50%
-  3                   25%
+  -   1                   100%
+  -   2                   50%
+  -   3                   25%
 
 ------------------------------------------------------------------------
 
@@ -211,11 +211,11 @@ Distribution:
 
   Fold     Number of Images
   -------- ------------------
-  Fold 1   6600
-  Fold 2   6600
-  Fold 3   6600
-  Fold 4   6600
-  Fold 5   6600
+  -   Fold 1   6600
+  -   Fold 2   6600
+  -   Fold 3   6600
+  -   Fold 4   6600
+  -   Fold 5   6600
 
 ![Examples of generated data](docs/images/generated_data.png)
 
